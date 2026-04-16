@@ -1,0 +1,101 @@
+Câu hỏi: [PARSEC] Lỗi 14003 là gì và cách xử lý như thế nào?
+Trả lời: Dạ anh/chị vui lòng tắt giúp em ứng dụng Remote Desktop hoặc Windows App, sau đó kết nối lại Parsec là sẽ sử dụng bình thường ạ.
+
+Câu hỏi: [PARSEC] Lỗi 403 xử lý như thế nào?
+Trả lời: Dạ anh/chị vui lòng kiểm tra email đã đăng ký tài khoản Parsec, sau đó nhấp vào liên kết xác nhận đăng nhập vị trí mới. Sau khi xác nhận xong, anh/chị đăng nhập lại Parsec giúp em nhé.
+
+Câu hỏi: [PARSEC] Lỗi 401 là gì?
+Trả lời: Dạ anh/chị vui lòng tắt Unikey rồi nhập lại thông tin đăng nhập giúp em. Lỗi này thường do nhập sai tài khoản hoặc mật khẩu Parsec ạ.
+
+Câu hỏi: [PARSEC] Lỗi 6023 là gì và khắc phục ra sao?
+Trả lời: Dạ lỗi này xảy ra khi Parsec không thể kết nối mạng P2P, thường do nhà mạng chặn port. Anh/chị vui lòng liên hệ nhà mạng để hỗ trợ mở port IP (có thể nói là “mở cổng xem camera”). Khi gọi cần cung cấp số điện thoại đăng ký wifi, tên người đăng ký và địa chỉ để được hỗ trợ nhanh hơn ạ.
+
+Câu hỏi: [PARSEC] Làm sao để bật Decoder?
+Trả lời: Dạ anh/chị vui lòng xem hướng dẫn chi tiết tại video sau giúp em: https://www.tiktok.com/@tungezc/video/7574666068300500245
+
+Câu hỏi: [PARSEC] Không sử dụng được micro thì phải làm sao?
+Trả lời: Dạ anh/chị vào Parsec → Settings → Client → bật mục “Microphone Passthrough” giúp em là sẽ sử dụng được mic ạ.
+
+Câu hỏi: [PARSEC] Không thấy màn hình số 2?
+Trả lời: Dạ anh/chị vui lòng Disconnect Parsec, sau đó tắt Remote Desktop hoặc Windows App rồi kết nối lại giúp em nhé.
+
+Câu hỏi: [PARSEC] Cách bật “Show only on 2” như thế nào?
+Trả lời: Dạ anh/chị vào Settings → System → Display → chọn màn hình số 2 → phần Multiple displays → chọn “Show only on 2” giúp em ạ.
+
+Câu hỏi: [PARSEC] Mất icon trên máy ảo thì làm sao?
+Trả lời: Dạ anh/chị vui lòng Disconnect Parsec, sau đó kết nối lại bằng Remote Desktop hoặc Windows App để hiển thị lại icon giúp em nhé.
+
+Câu hỏi: [PARSEC] GTA5VN bị lỗi không load map?
+Trả lời: Dạ anh/chị tham khảo video hướng dẫn fix lỗi tại đây giúp em: https://youtube.com/shorts/gRWWE_dUC2Y
+
+Câu hỏi: [PARSEC] Làm sao để chuyển tab?
+Trả lời: Dạ anh/chị xem hướng dẫn chi tiết tại video này giúp em: https://youtube.com/shorts/SN6oZAKhpMc
+
+Câu hỏi: [PARSEC] Làm sao để quay highlight không cần app?
+Trả lời: Dạ anh/chị tham khảo video hướng dẫn tại đây giúp em: https://youtube.com/shorts/IVBSSg2CEuc
+
+Câu hỏi: [PARSEC] GTA5VN bị sai thời gian?
+Trả lời: Dạ anh/chị xem hướng dẫn fix tại video sau giúp em: https://youtube.com/shorts/6CDDE9bwBHo
+
+Câu hỏi: [PARSEC] GTA5VN bị lỗi chuột?
+Trả lời: Dạ anh/chị tham khảo video hướng dẫn tại đây giúp em: https://youtube.com/shorts/mNreSdZUifo
+
+Câu hỏi: [PARSEC] Máy yếu bị lag thì chỉnh như thế nào?
+Trả lời: Dạ anh/chị có thể tối ưu cấu hình theo video hướng dẫn sau để giảm lag: https://youtube.com/shorts/QFmummSfR5U
+
+Câu hỏi: [PARSEC] Làm sao để quay màn hình trong Parsec?
+Trả lời: Dạ anh/chị xem video hướng dẫn tại đây giúp em: https://www.tiktok.com/@tungezc/video/7578743373889146132
+
+Câu hỏi: [RMD] Nhập sai thông tin đăng nhập thì phải làm sao?
+Trả lời: Dạ anh/chị vui lòng đổi lại username thành “ezycloudx-admin” giúp em nhé.
+
+Câu hỏi: [RMD] Tải Remote Desktop ở đâu?
+Trả lời: Dạ anh/chị có thể tải tại đây giúp em: https://go.microsoft.com/fwlink/?linkid=2247659
+
+Câu hỏi: [RMD] Cài Remote Desktop như thế nào?
+Trả lời: Dạ anh/chị vui lòng làm theo hướng dẫn chi tiết tại đây giúp em: https://learn.microsoft.com/en-us/windows-server/remote/remote-desktop-services/remotepc/uninstall-remote-desktop-connection
+
+Câu hỏi: [RMD] Không đăng nhập được Remote Desktop?
+Trả lời: Dạ anh/chị vui lòng gửi giúp em Support ID và mật khẩu máy để bên em kiểm tra và hỗ trợ nhanh nhất ạ.
+
+Câu hỏi: [RMD] Chơi GTA 5 bị delay chuột?
+Trả lời: Dạ trường hợp này do anh/chị đang kết nối bằng Remote Desktop. Để chơi game mượt hơn, anh/chị vui lòng sử dụng Parsec giúp em nhé.
+
+Câu hỏi: [STEAM] Tải game chậm trên Steamlink?
+Trả lời: Dạ anh/chị tham khảo video hướng dẫn tại đây để cải thiện tốc độ tải giúp em: https://youtube.com/shorts/K6pd_ICBqaY
+
+Câu hỏi: [STEAM] Không chạy được script?
+Trả lời: Dạ anh/chị xem hướng dẫn chi tiết tại video sau giúp em: https://youtube.com/shorts/gSAZ5g8IvQY
+
+Câu hỏi: [STEAM] Làm sao để bật mic trên Steamlink?
+Trả lời: Dạ anh/chị tham khảo video hướng dẫn tại đây giúp em: https://www.tiktok.com/@tungezc/video/7582088674431782164
+
+Câu hỏi: [STEAM] Không bắt cặp được điện thoại?
+Trả lời: Dạ anh/chị vui lòng đảm bảo luôn bật Steamlink khi kết nối. Nếu vẫn chưa được, anh/chị có thể dùng thêm điện thoại khác hoặc vào Remote Desktop để hỗ trợ bắt cặp giúp em nhé.
+
+Câu hỏi: [STEAM] Xác nhận đăng nhập Steamlink như thế nào?
+Trả lời: Dạ anh/chị xem hướng dẫn chi tiết tại đây giúp em: https://youtube.com/shorts/ajcWJGP7UJY
+
+Câu hỏi: [Bluestacks] Cách bật/tắt Hyper-V?
+Trả lời: Dạ anh/chị tham khảo video hướng dẫn tại đây giúp em: https://youtube.com/shorts/xOPRnbP1fMU
+
+Câu hỏi: [DOCKER] Docker GPU là gì?
+Trả lời: Dạ Docker GPU là môi trường giúp chạy các ứng dụng AI hoặc đồ họa nặng trên server một cách ổn định, đã được cấu hình sẵn nên anh/chị chỉ cần sử dụng mà không cần cài đặt phức tạp ạ.
+
+Câu hỏi: [FIX MẠNG] Mạng yếu dù đăng ký gói cao thì làm sao?
+Trả lời: Dạ anh/chị có thể gọi nhà mạng để reset đường truyền hoặc chuyển sang sử dụng WiFi 5GHz để tăng tốc độ và giảm nhiễu sóng giúp em nhé.
+
+Câu hỏi: [TAY CẦM] Cách kết nối tay cầm với PC?
+Trả lời: Dạ anh/chị tham khảo video hướng dẫn chi tiết tại đây giúp em: https://youtu.be/lS4V8Tw4UKs
+
+Câu hỏi: [KẾT NỐI] Cách kết nối Parsec trên PC?
+Trả lời: Dạ anh/chị xem video hướng dẫn chi tiết tại đây giúp em: https://www.youtube.com/watch?v=153vSI_v924
+
+Câu hỏi: [KẾT NỐI] 6 bước kết nối Parsec là gì?
+Trả lời: Dạ các bước gồm: cài Parsec trên máy chính → dùng Remote Desktop vào máy ảo → cài Parsec trong máy ảo → tắt Remote Desktop → quay lại máy chính kết nối Parsec → chỉnh “Show only on 2” để hiển thị đúng màn hình ạ.
+
+Câu hỏi: [KẾT NỐI] Kết nối Steamlink trên điện thoại?
+Trả lời: Dạ anh/chị tham khảo video hướng dẫn tại đây giúp em: https://youtu.be/HL6BRVF6-AQ
+
+Câu hỏi: [KẾT NỐI] Kết nối Remote Desktop để làm việc?
+Trả lời: Dạ anh/chị xem hướng dẫn chi tiết tại đây giúp em: https://youtube.com/shorts/y7ksaXLU7oY
