@@ -1,101 +1,110 @@
-Câu hỏi: [PARSEC] Lỗi 14003 là gì và cách xử lý như thế nào?
-Trả lời: Dạ anh/chị vui lòng tắt giúp em ứng dụng Remote Desktop hoặc Windows App, sau đó kết nối lại Parsec là sẽ sử dụng bình thường ạ.
+DANH SÁCH TƯ VẤN & CHĂM SÓC KHÁCH HÀNG (CSKH)
 
-Câu hỏi: [PARSEC] Lỗi 403 xử lý như thế nào?
-Trả lời: Dạ anh/chị vui lòng kiểm tra email đã đăng ký tài khoản Parsec, sau đó nhấp vào liên kết xác nhận đăng nhập vị trí mới. Sau khi xác nhận xong, anh/chị đăng nhập lại Parsec giúp em nhé.
+1. Chào hỏi & Link tham gia
+[Chào hỏi] | EzyCloudX xin chào, em có thể hỗ trợ gì cho anh/chị về dịch vụ Cloud PC ạ?
+[Link Discord] | Anh/chị tham gia nhóm Discord để nhận hỗ trợ nhanh nhất tại đây: https://discord.com/invite/3Jd3kmry5N
+[HD vào Discord] | Anh/chị vào Web -> Click mục Hỗ trợ (gần Avatar góc phải) -> Tham gia nhóm Discord. Tại đây có đầy đủ video hướng dẫn kết nối máy ảo ạ.
 
-Câu hỏi: [PARSEC] Lỗi 401 là gì?
-Trả lời: Dạ anh/chị vui lòng tắt Unikey rồi nhập lại thông tin đăng nhập giúp em. Lỗi này thường do nhập sai tài khoản hoặc mật khẩu Parsec ạ.
+2. Tư vấn dịch vụ & Giá cả
+[Giá thuê / Bao nhiêu] | EZC có 3 loại: Windows, Ubuntu và Docker GPU. Giá thuê theo giờ linh hoạt từ 5K - 25K/giờ (dùng giờ nào tính tiền giờ đó). Chi tiết tại: https://www.ezycloudx.com/gpu-hourly
+[Tư vấn / EZC là gì] | EzyCloudX là dịch vụ thuê máy tính cấu hình cao từ xa (RTX 5090/4090...). Anh/chị dùng điện thoại, laptop yếu, hay tablet đều có thể điều khiển và chơi game mượt mà.
+[Thông tin tư vấn] | Để em hỗ trợ tốt nhất, anh/chị cho em biết: 1. Thuê máy để chơi game hay làm việc? 2. Thiết bị đang dùng là gì (Điện thoại/Laptop/PC yếu)?
 
-Câu hỏi: [PARSEC] Lỗi 6023 là gì và khắc phục ra sao?
-Trả lời: Dạ lỗi này xảy ra khi Parsec không thể kết nối mạng P2P, thường do nhà mạng chặn port. Anh/chị vui lòng liên hệ nhà mạng để hỗ trợ mở port IP (có thể nói là “mở cổng xem camera”). Khi gọi cần cung cấp số điện thoại đăng ký wifi, tên người đăng ký và địa chỉ để được hỗ trợ nhanh hơn ạ.
+3. Điều hướng hỗ trợ kỹ thuật
+[Hỗ trợ kỹ thuật / Kỹ thuật viên] | Để tiết kiệm thời gian, mời anh/chị qua nhóm "Hỗ trợ khách hàng" tại Discord. Các bạn kỹ thuật viên bên em sẽ xử lý lỗi cài đặt, kết nối hoặc hoàn tiền một cách nhanh nhất ạ.
+[Seeding / Tham khảo] | Anh/chị tham khảo dịch vụ tại https://www.ezycloudx.com/ nha. Máy chủ đặt tại Việt Nam nên nếu mạng ổn định là dùng mượt, hầu như không có độ trễ luôn ạ.
 
-Câu hỏi: [PARSEC] Làm sao để bật Decoder?
-Trả lời: Dạ anh/chị vui lòng xem hướng dẫn chi tiết tại video sau giúp em: https://www.tiktok.com/@tungezc/video/7574666068300500245
+DANH SÁCH HỖ TRỢ KỸ THUẬT EZYCLOUDX (CẬP NHẬT)
 
-Câu hỏi: [PARSEC] Không sử dụng được micro thì phải làm sao?
-Trả lời: Dạ anh/chị vào Parsec → Settings → Client → bật mục “Microphone Passthrough” giúp em là sẽ sử dụng được mic ạ.
+1. Nhóm lỗi Parsec (Phổ biến nhất)
+[Lỗi 14003] | Tắt "Remote Desktop" hoặc "Windows App" trên máy ảo trước khi kết nối Parsec.
+[Lỗi 403] | Check Email đăng ký Parsec -> Click link phê duyệt vị trí đăng nhập mới -> Login lại.
+[Lỗi 401] | Sai tài khoản/mật khẩu. Tắt Unikey rồi nhập lại chính xác.
+[Lỗi 6023] | Lỗi NAT/ISP chặn UDP. Liên hệ tổng đài nhà mạng (VNPT: 18001166 phím 3, Viettel: 18008119 phím 1) yêu cầu "Mở cổng Camera/Mở Port IP".
+[6023 Tunnel] | Cách fix lỗi 6023 không cần gọi tổng đài (Áp dụng VN-01). | https://www.ezycloudx.com/blog/huong-dan-ket-noi-may-chu-gpu-bang-ezc-tunnel-tw44q4x
+[Bật Decoder] | Hướng dẫn bật Decoder để giảm lag. | https://www.tiktok.com/@tungezc/video/7574666068300500245
+[Lỗi Mic] | Vào Parsec -> Setting -> Client -> Microphone Passthrough -> ON.
+[Màn hình 2 / Dual Screen] | Ngắt kết nối Parsec -> Tắt Remote Desktop/Windows App. Vào Settings -> System -> Display -> Chọn ô số 2 -> Multiple displays -> Show only on 2. | https://www.tiktok.com/@tungezc/video/7567235761586605320
+[Mất icon] | Tắt Parsec -> Dùng Remote Desktop connect lại để hiện icon. | https://www.tiktok.com/@tungezc/video/7556102381142838536
 
-Câu hỏi: [PARSEC] Không thấy màn hình số 2?
-Trả lời: Dạ anh/chị vui lòng Disconnect Parsec, sau đó tắt Remote Desktop hoặc Windows App rồi kết nối lại giúp em nhé.
+2. Nhóm Game GTA 5 VN
+[GTA5 Mất Map] | Cách fix lỗi không load được map GTA 5. | https://youtube.com/shorts/gRWWE_dUC2Y
+[GTA5 Sai giờ] | Cách fix lỗi sai thời gian trong game. | https://youtube.com/shorts/6CDDE9bwBHo
+[GTA5 Lỗi chuột] | Cách fix lỗi chuột trong game GTA5VN. | https://youtube.com/shorts/mNreSdZUifo
+[Chuyển Tab] | Hướng dẫn chuyển Tab nhanh trong Parsec. | https://youtube.com/shorts/SN6oZAKhpMc
 
-Câu hỏi: [PARSEC] Cách bật “Show only on 2” như thế nào?
-Trả lời: Dạ anh/chị vào Settings → System → Display → chọn màn hình số 2 → phần Multiple displays → chọn “Show only on 2” giúp em ạ.
+3. Nhóm Remote Desktop (RMD)
+[RMD Sai thông tin] | User mặc định là ezycloudx-admin. Anh/chị check lại tên đăng nhập nhé.
+[RMD Chơi game lag] | Chơi game bắt buộc dùng Parsec. RMD chỉ dùng để làm việc hoặc cài đặt thôi ạ.
+[RMD Link tải] | Link tải Microsoft Remote Desktop chính thức. | https://go.microsoft.com/fwlink/?linkid=2247659
 
-Câu hỏi: [PARSEC] Mất icon trên máy ảo thì làm sao?
-Trả lời: Dạ anh/chị vui lòng Disconnect Parsec, sau đó kết nối lại bằng Remote Desktop hoặc Windows App để hiển thị lại icon giúp em nhé.
+4. Nhóm Mạng & Hiệu năng
+[Lag máy yếu] | Setting tối ưu cho Laptop/PC yếu để đỡ lag. | https://youtube.com/shorts/QFmummSfR5U
+[Fix mạng chậm] | Gói 150k+ mà tốc độ thấp: 1. Gọi tổng đài yêu cầu reset băng thông. 2. Chuyển sang dùng Wifi 5GHz thay vì 2.4GHz.
+[Bluestacks] | Lỗi Bluestacks cần tắt/bật Hyper-V. | https://youtube.com/shorts/xOPRnbP1fMU
 
-Câu hỏi: [PARSEC] GTA5VN bị lỗi không load map?
-Trả lời: Dạ anh/chị tham khảo video hướng dẫn fix lỗi tại đây giúp em: https://youtube.com/shorts/gRWWE_dUC2Y
+5. Kết nối khác
+[Tay cầm] | Hướng dẫn kết nối tay cầm với Cloud PC. | https://youtu.be/lS4V8Tw4UKs
+[Steamlink Mic] | Cách bật Mic trên Steamlink. | https://www.tiktok.com/@tungezc/video/7582088674431782164
+[Moonlight Mic] | Cách bật Mic trên Moonlight. | https://youtube.com/shorts/3C0G3btmN4M
 
-Câu hỏi: [PARSEC] Làm sao để chuyển tab?
-Trả lời: Dạ anh/chị xem hướng dẫn chi tiết tại video này giúp em: https://youtube.com/shorts/SN6oZAKhpMc
+QUY TRÌNH VÀ HƯỚNG DẪN TEST MÁY EZYCLOUDX
 
-Câu hỏi: [PARSEC] Làm sao để quay highlight không cần app?
-Trả lời: Dạ anh/chị tham khảo video hướng dẫn tại đây giúp em: https://youtube.com/shorts/IVBSSg2CEuc
+1. Quy trình Test máy (Dành cho Admin/Bot)
+[Bắt đầu Test] | Anh/chị test máy để chơi game hay làm việc ạ? Cho em xin thông tin thiết bị (Laptop, Điện thoại, Ipad...) để em gửi video hướng dẫn kết nối phù hợp nhé.
+[Thời gian Test] | Thời gian test từ 30 - 60 phút tùy khung giờ (mặc định 45 phút). Anh/chị vui lòng thả tym xác nhận sau khi nhận máy. Ưu tiên test game/app có sẵn để tiết kiệm thời gian ạ.
+[Quy tắc Test] | Anh/chị không sử dụng máy mà để treo bên em sẽ không hỗ trợ test lại. Gặp lỗi gì anh/chị nhắn ngay trong ticket này để em hỗ trợ nhé.
+[Kết thúc Test] | Em xin phép đóng ticket test máy tại đây. Nếu anh/chị muốn thuê máy hoặc gặp lỗi sau này, hãy nhắn tin tại mục TRÒ CHUYỆN CHUNG nha.
+[Hết máy Test] | Hiện tại bên em đang full máy test. Khi nào có máy trống em sẽ chủ động nhắn lại ngay, anh/chị thông cảm giúp em nhé.
 
-Câu hỏi: [PARSEC] GTA5VN bị sai thời gian?
-Trả lời: Dạ anh/chị xem hướng dẫn fix tại video sau giúp em: https://youtube.com/shorts/6CDDE9bwBHo
+2. Hướng dẫn kết nối (Link Video)
+[Kết nối Parsec PC] | Video hướng dẫn tải, tạo tài khoản và kết nối Parsec trên máy tính. | https://www.youtube.com/watch?v=153vSI_v924
+[6 bước Parsec] | 1. Tải Parsec máy chính -> 2. Vào RDP máy ảo -> 3. Tải Parsec máy ảo -> 4. Tắt RDP -> 5. Máy chính nhấn Connect -> 6. Chỉnh Show only on 2 trong Display Settings.
+[Kết nối Steamlink Mobile] | Hướng dẫn kết nối điện thoại qua Steamlink (Cần có chuột/phím). | https://youtu.be/HL6BRVF6-AQ
+[Kết nối Steamlink PC] | Hướng dẫn kết nối PC qua Steamlink. | https://youtu.be/RyhYMa50Nac
+[Kết nối Remote Desktop] | Hướng dẫn dùng RMD để làm việc. | https://youtube.com/shorts/y7ksaXLU7oY
+[Kết nối Moonlight Mobile] | Hướng dẫn kết nối Moonlight trên điện thoại (Nâng cao). | https://youtu.be/JuZr-naboFE
+[Kết nối Moonlight PC] | Hướng dẫn kết nối Moonlight trên máy tính. | https://youtu.be/6PMlZbitRcg
 
-Câu hỏi: [PARSEC] GTA5VN bị lỗi chuột?
-Trả lời: Dạ anh/chị tham khảo video hướng dẫn tại đây giúp em: https://youtube.com/shorts/mNreSdZUifo
+3. Điều kiện kỹ thuật
+[Speedtest / Mạng yếu] | Anh/chị kiểm tra tốc độ mạng tại https://speedtest.vn/. Tốc độ cần >100Mbps để đảm bảo không bị lag khi sử dụng Cloud PC ạ.
 
-Câu hỏi: [PARSEC] Máy yếu bị lag thì chỉnh như thế nào?
-Trả lời: Dạ anh/chị có thể tối ưu cấu hình theo video hướng dẫn sau để giảm lag: https://youtube.com/shorts/QFmummSfR5U
+DANH SÁCH GAME VÀ QUY ĐỊNH ỨNG DỤNG
 
-Câu hỏi: [PARSEC] Làm sao để quay màn hình trong Parsec?
-Trả lời: Dạ anh/chị xem video hướng dẫn tại đây giúp em: https://www.tiktok.com/@tungezc/video/7578743373889146132
+1. Kho Game có sẵn
+[Game có sẵn / List game] | EZC đã cài sẵn các cực phẩm: Black Myth: Wukong, Genshin Impact, GTA 5 VN, NARAKA: BLADEPOINT, Counter-Strike 2, Path of Exile, Nghịch Thủy Hàn, Where Winds Meet, Outlast 2, Silksong... và nhiều game khác.
+[Tải game thêm] | Ngoài các game có sẵn, anh/chị có thể tự tải thêm các tựa game khác về máy ảo để trải nghiệm bình thường ạ.
 
-Câu hỏi: [RMD] Nhập sai thông tin đăng nhập thì phải làm sao?
-Trả lời: Dạ anh/chị vui lòng đổi lại username thành “ezycloudx-admin” giúp em nhé.
+2. Xử lý lỗi tải Game
+[Tải chậm / Steam chậm] | Lỗi tải chậm trên Steam/Steamlink: Anh/chị vào Steam -> Thiết lập (Settings) -> Tải xuống (Downloads) -> Đổi "Vùng tải xuống" (Download Region) sang nước khác ngoài Việt Nam là tốc độ sẽ vọt lên ngay ạ.
 
-Câu hỏi: [RMD] Tải Remote Desktop ở đâu?
-Trả lời: Dạ anh/chị có thể tải tại đây giúp em: https://go.microsoft.com/fwlink/?linkid=2247659
+3. Quy định & Bảo mật
+[Game cấm / Không chơi được] | Một số game có hệ thống Anti-cheat cấm máy ảo (như Valorant, Faceit...). Anh/chị vui lòng check kỹ danh sách tại đây để tránh bị khóa tài khoản nhé: https://www.ezycloudx.com/blog/cac-game-chua-choi-duoc-tren-ezycloudx-61vdxm
 
-Câu hỏi: [RMD] Cài Remote Desktop như thế nào?
-Trả lời: Dạ anh/chị vui lòng làm theo hướng dẫn chi tiết tại đây giúp em: https://learn.microsoft.com/en-us/windows-server/remote/remote-desktop-services/remotepc/uninstall-remote-desktop-connection
+DANH SÁCH HƯỚNG DẪN VÀ THÔNG TIN Ổ NAS (LƯU TRỮ)
 
-Câu hỏi: [RMD] Không đăng nhập được Remote Desktop?
-Trả lời: Dạ anh/chị vui lòng gửi giúp em Support ID và mật khẩu máy để bên em kiểm tra và hỗ trợ nhanh nhất ạ.
+1. Hướng dẫn & Lưu ý quan trọng
+[HDSD ổ NAS] | Video hướng dẫn chi tiết cách sử dụng ổ NAS để lưu trữ và chuyển dữ liệu qua lại giữa máy cá nhân và máy EZC. | https://youtu.be/EdTYedFr6Lk
+[Lưu ý sử dụng NAS] | CẢNH BÁO: Anh/chị tuyệt đối KHÔNG sử dụng file trực tiếp trên ổ NAS (sẽ gây lỗi dữ liệu). Hãy COPY file về Desktop trước khi sử dụng nhé.
+[Vị trí Up/Lấy file] | Anh/chị cần up file thì vào thư mục ezc-common. Nếu muốn lấy Game đã tải sẵn, hãy vào thư mục ezc-share ạ.
 
-Câu hỏi: [RMD] Chơi GTA 5 bị delay chuột?
-Trả lời: Dạ trường hợp này do anh/chị đang kết nối bằng Remote Desktop. Để chơi game mượt hơn, anh/chị vui lòng sử dụng Parsec giúp em nhé.
+2. Thông tin truy cập NAS 1
+[Địa chỉ NAS 1] |
+- Từ máy cá nhân (Web): https://ezc-nas.synology.me:8386/
+- Từ trong máy thuê EZC: Mở Explorer, nhập \10.10.20.20 vào thanh địa chỉ.
+[Tài khoản NAS 1] | User: ezc-guest / Pass: Nas@IXlMEh8evpQ
 
-Câu hỏi: [STEAM] Tải game chậm trên Steamlink?
-Trả lời: Dạ anh/chị tham khảo video hướng dẫn tại đây để cải thiện tốc độ tải giúp em: https://youtube.com/shorts/K6pd_ICBqaY
+3. Thông tin truy cập NAS 2
+[Địa chỉ NAS 2] |
+- Từ máy cá nhân (Web): https://ezc-nas-extbt.synology.me:8386/
+- Từ trong máy thuê EZC: Mở Explorer, nhập \ezc-nas-extbt vào thanh địa chỉ.
+[Tài khoản NAS 2] | User: ezc-guest / Pass: @123456
 
-Câu hỏi: [STEAM] Không chạy được script?
-Trả lời: Dạ anh/chị xem hướng dẫn chi tiết tại video sau giúp em: https://youtube.com/shorts/gSAZ5g8IvQY
+QUY TRÌNH XỬ LÝ LỖI REBOOT VÀ HỖ TRỢ KỸ THUẬT
 
-Câu hỏi: [STEAM] Làm sao để bật mic trên Steamlink?
-Trả lời: Dạ anh/chị tham khảo video hướng dẫn tại đây giúp em: https://www.tiktok.com/@tungezc/video/7582088674431782164
+1. Tiếp nhận thông tin lỗi
+[Thông tin máy lỗi / Xin ID] | Để kiểm tra nhanh nhất, anh/chị vui lòng copy gửi giúp em thông tin Support ID và Mật khẩu máy đang gặp lỗi nhé.
 
-Câu hỏi: [STEAM] Không bắt cặp được điện thoại?
-Trả lời: Dạ anh/chị vui lòng đảm bảo luôn bật Steamlink khi kết nối. Nếu vẫn chưa được, anh/chị có thể dùng thêm điện thoại khác hoặc vào Remote Desktop để hỗ trợ bắt cặp giúp em nhé.
-
-Câu hỏi: [STEAM] Xác nhận đăng nhập Steamlink như thế nào?
-Trả lời: Dạ anh/chị xem hướng dẫn chi tiết tại đây giúp em: https://youtube.com/shorts/ajcWJGP7UJY
-
-Câu hỏi: [Bluestacks] Cách bật/tắt Hyper-V?
-Trả lời: Dạ anh/chị tham khảo video hướng dẫn tại đây giúp em: https://youtube.com/shorts/xOPRnbP1fMU
-
-Câu hỏi: [DOCKER] Docker GPU là gì?
-Trả lời: Dạ Docker GPU là môi trường giúp chạy các ứng dụng AI hoặc đồ họa nặng trên server một cách ổn định, đã được cấu hình sẵn nên anh/chị chỉ cần sử dụng mà không cần cài đặt phức tạp ạ.
-
-Câu hỏi: [FIX MẠNG] Mạng yếu dù đăng ký gói cao thì làm sao?
-Trả lời: Dạ anh/chị có thể gọi nhà mạng để reset đường truyền hoặc chuyển sang sử dụng WiFi 5GHz để tăng tốc độ và giảm nhiễu sóng giúp em nhé.
-
-Câu hỏi: [TAY CẦM] Cách kết nối tay cầm với PC?
-Trả lời: Dạ anh/chị tham khảo video hướng dẫn chi tiết tại đây giúp em: https://youtu.be/lS4V8Tw4UKs
-
-Câu hỏi: [KẾT NỐI] Cách kết nối Parsec trên PC?
-Trả lời: Dạ anh/chị xem video hướng dẫn chi tiết tại đây giúp em: https://www.youtube.com/watch?v=153vSI_v924
-
-Câu hỏi: [KẾT NỐI] 6 bước kết nối Parsec là gì?
-Trả lời: Dạ các bước gồm: cài Parsec trên máy chính → dùng Remote Desktop vào máy ảo → cài Parsec trong máy ảo → tắt Remote Desktop → quay lại máy chính kết nối Parsec → chỉnh “Show only on 2” để hiển thị đúng màn hình ạ.
-
-Câu hỏi: [KẾT NỐI] Kết nối Steamlink trên điện thoại?
-Trả lời: Dạ anh/chị tham khảo video hướng dẫn tại đây giúp em: https://youtu.be/HL6BRVF6-AQ
-
-Câu hỏi: [KẾT NỐI] Kết nối Remote Desktop để làm việc?
-Trả lời: Dạ anh/chị xem hướng dẫn chi tiết tại đây giúp em: https://youtube.com/shorts/y7ksaXLU7oY
+2. Quy trình Reboot/Reset máy
+[Reboot lỗi / Reset máy] | Hệ thống đang tiến hành Reset lại máy, thời gian dự kiến khoảng 8 - 10 phút. Anh/chị lưu ý không xóa máy và không can thiệp trong thời gian này để tránh lỗi phát sinh thêm ạ.
+[Chế độ hoàn tiền] | Nếu máy gặp lỗi kỹ thuật từ phía EZC dẫn đến không truy cập được, bên em sẽ hỗ trợ hoàn tiền vào tài khoản EZC cho mình trong thời gian máy bị gián đoạn ạ.
