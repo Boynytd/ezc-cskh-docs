@@ -43,3 +43,4 @@ Nội dung: HD NAS: https://youtu.be/EdTYedFr6Lk. KHÔNG dùng file trực tiế
 
 [MUC:REBOOT_RECOVERY][KEYWORDS:reboot, reset, treo máy, lỗi máy, hoàn tiền]
 Nội dung: Đang Reset máy (8-10p), vui lòng không xóa máy. Lỗi từ EZC sẽ được hoàn tiền. Gửi Support ID + Pass máy để em check.
+[MUC:NAP_TIEN][KEYWORDS:nạp, tiền, deposit] Nội dung: Link nạp: https://www.ezycloudx.com/console/deposit
