@@ -1,110 +1,53 @@
-DANH SÁCH TƯ VẤN & CHĂM SÓC KHÁCH HÀNG (CSKH)
+[MUC:CHAO_HOI][KEYWORDS:chào, hi, hello, là ai, bắt đầu, giúp, hỗ trợ]
+Nội dung: EzyCloudX xin chào, em có thể hỗ trợ gì cho anh/chị về dịch vụ Cloud PC ạ? Anh/chị nên tham gia nhóm Discord để nhận hỗ trợ nhanh nhất và xem video hướng dẫn tại: https://discord.com/invite/3Jd3kmry5N (Vào Web -> Click mục Hỗ trợ gần Avatar góc phải).
 
-1. Chào hỏi & Link tham gia
-[Chào hỏi] | EzyCloudX xin chào, em có thể hỗ trợ gì cho anh/chị về dịch vụ Cloud PC ạ?
-[Link Discord] | Anh/chị tham gia nhóm Discord để nhận hỗ trợ nhanh nhất tại đây: https://discord.com/invite/3Jd3kmry5N
-[HD vào Discord] | Anh/chị vào Web -> Click mục Hỗ trợ (gần Avatar góc phải) -> Tham gia nhóm Discord. Tại đây có đầy đủ video hướng dẫn kết nối máy ảo ạ.
+[MUC:GIA_CA][KEYWORDS:giá, bao nhiêu, tiền, phí, bảng giá, thuê, hourly, giờ]
+Nội dung: EZC có 3 loại: Windows, Ubuntu và Docker GPU. Giá thuê theo giờ linh hoạt từ 5K - 25K/giờ (dùng giờ nào tính tiền giờ đó). Chi tiết bảng giá tại: https://www.ezycloudx.com/gpu-hourly. EzyCloudX cho phép dùng điện thoại, laptop yếu để điều khiển máy cấu hình cao (RTX 5090/4090...).
 
-2. Tư vấn dịch vụ & Giá cả
-[Giá thuê / Bao nhiêu] | EZC có 3 loại: Windows, Ubuntu và Docker GPU. Giá thuê theo giờ linh hoạt từ 5K - 25K/giờ (dùng giờ nào tính tiền giờ đó). Chi tiết tại: https://www.ezycloudx.com/gpu-hourly
-[Tư vấn / EZC là gì] | EzyCloudX là dịch vụ thuê máy tính cấu hình cao từ xa (RTX 5090/4090...). Anh/chị dùng điện thoại, laptop yếu, hay tablet đều có thể điều khiển và chơi game mượt mà.
-[Thông tin tư vấn] | Để em hỗ trợ tốt nhất, anh/chị cho em biết: 1. Thuê máy để chơi game hay làm việc? 2. Thiết bị đang dùng là gì (Điện thoại/Laptop/PC yếu)?
+[MUC:LOI_14003][KEYWORDS:14003, parsec, connect, không vào được, remote desktop]
+Nội dung: Cách fix lỗi 14003: Anh/chị vui lòng tắt "Remote Desktop" hoặc "Windows App" trên máy ảo trước khi kết nối Parsec nhé.
 
-3. Điều hướng hỗ trợ kỹ thuật
-[Hỗ trợ kỹ thuật / Kỹ thuật viên] | Để tiết kiệm thời gian, mời anh/chị qua nhóm "Hỗ trợ khách hàng" tại Discord. Các bạn kỹ thuật viên bên em sẽ xử lý lỗi cài đặt, kết nối hoặc hoàn tiền một cách nhanh nhất ạ.
-[Seeding / Tham khảo] | Anh/chị tham khảo dịch vụ tại https://www.ezycloudx.com/ nha. Máy chủ đặt tại Việt Nam nên nếu mạng ổn định là dùng mượt, hầu như không có độ trễ luôn ạ.
+[MUC:LOI_6023][KEYWORDS:6023, nat, isp, mạng chặn, udp, tunnel, lag]
+Nội dung: Lỗi 6023 do mạng chặn UDP. 
+- Cách 1: Gọi tổng đài yêu cầu mở Port (VNPT: 18001166 phím 3, Viettel: 18008119 phím 1). 
+- Cách 2 (EZC Tunnel): https://www.ezycloudx.com/blog/huong-dan-ket-noi-may-chu-gpu-bang-ezc-tunnel-tw44q4x
+- Bật Decoder giảm lag: https://www.tiktok.com/@tungezc/video/7574666068300500245
 
-DANH SÁCH HỖ TRỢ KỸ THUẬT EZYCLOUDX (CẬP NHẬT)
+[MUC:LOI_PARSEC_KHAC][KEYWORDS:403, 401, mic, dual screen, màn hình, icon, chuột]
+Nội dung: 
+- Lỗi 403: Check Email phê duyệt vị trí mới.
+- Lỗi 401: Sai pass, tắt Unikey nhập lại.
+- Lỗi Mic: Setting -> Client -> Microphone Passthrough -> ON.
+- Màn hình 2: https://www.tiktok.com/@tungezc/video/7567235761586605320
+- Mất icon: Tắt Parsec, dùng RMD connect lại sẽ hiện.
 
-1. Nhóm lỗi Parsec (Phổ biến nhất)
-[Lỗi 14003] | Tắt "Remote Desktop" hoặc "Windows App" trên máy ảo trước khi kết nối Parsec.
-[Lỗi 403] | Check Email đăng ký Parsec -> Click link phê duyệt vị trí đăng nhập mới -> Login lại.
-[Lỗi 401] | Sai tài khoản/mật khẩu. Tắt Unikey rồi nhập lại chính xác.
-[Lỗi 6023] | Lỗi NAT/ISP chặn UDP. Liên hệ tổng đài nhà mạng (VNPT: 18001166 phím 3, Viettel: 18008119 phím 1) yêu cầu "Mở cổng Camera/Mở Port IP".
-[6023 Tunnel] | Cách fix lỗi 6023 không cần gọi tổng đài (Áp dụng VN-01). | https://www.ezycloudx.com/blog/huong-dan-ket-noi-may-chu-gpu-bang-ezc-tunnel-tw44q4x
-[Bật Decoder] | Hướng dẫn bật Decoder để giảm lag. | https://www.tiktok.com/@tungezc/video/7574666068300500245
-[Lỗi Mic] | Vào Parsec -> Setting -> Client -> Microphone Passthrough -> ON.
-[Màn hình 2 / Dual Screen] | Ngắt kết nối Parsec -> Tắt Remote Desktop/Windows App. Vào Settings -> System -> Display -> Chọn ô số 2 -> Multiple displays -> Show only on 2. | https://www.tiktok.com/@tungezc/video/7567235761586605320
-[Mất icon] | Tắt Parsec -> Dùng Remote Desktop connect lại để hiện icon. | https://www.tiktok.com/@tungezc/video/7556102381142838536
+[MUC:GTA5_VN][KEYWORDS:gta 5, gta5, mất map, sai giờ, chuột gta, lag map]
+Nội dung: Hướng dẫn fix lỗi GTA 5 VN:
+- Mất Map: https://youtube.com/shorts/gRWWE_dUC2Y
+- Sai giờ: https://youtube.com/shorts/6CDDE9bwBHo
+- Lỗi chuột: https://youtube.com/shorts/mNreSdZUifo
 
-2. Nhóm Game GTA 5 VN
-[GTA5 Mất Map] | Cách fix lỗi không load được map GTA 5. | https://youtube.com/shorts/gRWWE_dUC2Y
-[GTA5 Sai giờ] | Cách fix lỗi sai thời gian trong game. | https://youtube.com/shorts/6CDDE9bwBHo
-[GTA5 Lỗi chuột] | Cách fix lỗi chuột trong game GTA5VN. | https://youtube.com/shorts/mNreSdZUifo
-[Chuyển Tab] | Hướng dẫn chuyển Tab nhanh trong Parsec. | https://youtube.com/shorts/SN6oZAKhpMc
+[MUC:NAP_TIEN][KEYWORDS:nạp, tiền, tài khoản, chuyển khoản, bank, thanh toán]
+Nội dung: Để nạp tiền, anh/chị vào Dashboard -> chọn mục "Nạp tiền" -> Chuyển khoản ngân hàng hoặc Momo. Tiền vào tài khoản sau 1-3 phút ạ.
 
-3. Nhóm Remote Desktop (RMD)
-[RMD Sai thông tin] | User mặc định là ezycloudx-admin. Anh/chị check lại tên đăng nhập nhé.
-[RMD Chơi game lag] | Chơi game bắt buộc dùng Parsec. RMD chỉ dùng để làm việc hoặc cài đặt thôi ạ.
-[RMD Link tải] | Link tải Microsoft Remote Desktop chính thức. | https://go.microsoft.com/fwlink/?linkid=2247659
+[MUC:TEST_MAY][KEYWORDS:test, thử, trải nghiệm, xin máy, xin test, bao lâu]
+Nội dung: Quy trình test máy (30-60 phút): Anh/chị cho em biết dùng thiết bị gì (PC/Mobile) và chơi game hay làm việc? Sau khi nhận máy vui lòng thả tym xác nhận. Không treo máy (nếu treo em không hỗ trợ test lại). Nếu full máy test, em sẽ nhắn lại ngay khi có máy trống.
 
-4. Nhóm Mạng & Hiệu năng
-[Lag máy yếu] | Setting tối ưu cho Laptop/PC yếu để đỡ lag. | https://youtube.com/shorts/QFmummSfR5U
-[Fix mạng chậm] | Gói 150k+ mà tốc độ thấp: 1. Gọi tổng đài yêu cầu reset băng thông. 2. Chuyển sang dùng Wifi 5GHz thay vì 2.4GHz.
-[Bluestacks] | Lỗi Bluestacks cần tắt/bật Hyper-V. | https://youtube.com/shorts/xOPRnbP1fMU
+[MUC:KET_NOI_VIDEO][KEYWORDS:hướng dẫn, kết nối, cài đặt, video, parsec, steamlink, moonlight]
+Nội dung: Video hướng dẫn:
+- Parsec PC: https://www.youtube.com/watch?v=153vSI_v924
+- Steamlink Mobile: https://youtu.be/HL6BRVF6-AQ
+- Moonlight Mobile: https://youtu.be/JuZr-naboFE
+- RMD: https://youtube.com/shorts/y7ksaXLU7oY
 
-5. Kết nối khác
-[Tay cầm] | Hướng dẫn kết nối tay cầm với Cloud PC. | https://youtu.be/lS4V8Tw4UKs
-[Steamlink Mic] | Cách bật Mic trên Steamlink. | https://www.tiktok.com/@tungezc/video/7582088674431782164
-[Moonlight Mic] | Cách bật Mic trên Moonlight. | https://youtube.com/shorts/3C0G3btmN4M
+[MUC:GAME_APPS][KEYWORDS:game, list game, có sẵn, wukong, genshin, valorant, anti cheat]
+Nội dung: EZC có sẵn: Wukong, Genshin, GTA 5, Naraka... Anh/chị có thể tự tải thêm. 
+Lưu ý: Các game cấm máy ảo (Valorant, Faceit...) không chơi được: https://www.ezycloudx.com/blog/cac-game-chua-choi-duoc-tren-ezycloudx-61vdxm
 
-QUY TRÌNH VÀ HƯỚNG DẪN TEST MÁY EZYCLOUDX
+[MUC:NAS_STORAGE][KEYWORDS:nas, lưu trữ, ổ cứng, copy, dữ liệu, mật khẩu nas]
+Nội dung: HDSD ổ NAS: https://youtu. EdTYedFr6Lk. Tuyệt đối KHÔNG dùng file trực tiếp trên NAS (phải copy về Desktop). 
+- NAS 1: \10.10.20.20 | User: ezc-guest / Pass: Nas@IXlMEh8evpQ
+- NAS 2: \ezc-nas-extbt | User: ezc-guest / Pass: @123456
 
-1. Quy trình Test máy (Dành cho Admin/Bot)
-[Bắt đầu Test] | Anh/chị test máy để chơi game hay làm việc ạ? Cho em xin thông tin thiết bị (Laptop, Điện thoại, Ipad...) để em gửi video hướng dẫn kết nối phù hợp nhé.
-[Thời gian Test] | Thời gian test từ 30 - 60 phút tùy khung giờ (mặc định 45 phút). Anh/chị vui lòng thả tym xác nhận sau khi nhận máy. Ưu tiên test game/app có sẵn để tiết kiệm thời gian ạ.
-[Quy tắc Test] | Anh/chị không sử dụng máy mà để treo bên em sẽ không hỗ trợ test lại. Gặp lỗi gì anh/chị nhắn ngay trong ticket này để em hỗ trợ nhé.
-[Kết thúc Test] | Em xin phép đóng ticket test máy tại đây. Nếu anh/chị muốn thuê máy hoặc gặp lỗi sau này, hãy nhắn tin tại mục TRÒ CHUYỆN CHUNG nha.
-[Hết máy Test] | Hiện tại bên em đang full máy test. Khi nào có máy trống em sẽ chủ động nhắn lại ngay, anh/chị thông cảm giúp em nhé.
-
-2. Hướng dẫn kết nối (Link Video)
-[Kết nối Parsec PC] | Video hướng dẫn tải, tạo tài khoản và kết nối Parsec trên máy tính. | https://www.youtube.com/watch?v=153vSI_v924
-[6 bước Parsec] | 1. Tải Parsec máy chính -> 2. Vào RDP máy ảo -> 3. Tải Parsec máy ảo -> 4. Tắt RDP -> 5. Máy chính nhấn Connect -> 6. Chỉnh Show only on 2 trong Display Settings.
-[Kết nối Steamlink Mobile] | Hướng dẫn kết nối điện thoại qua Steamlink (Cần có chuột/phím). | https://youtu.be/HL6BRVF6-AQ
-[Kết nối Steamlink PC] | Hướng dẫn kết nối PC qua Steamlink. | https://youtu.be/RyhYMa50Nac
-[Kết nối Remote Desktop] | Hướng dẫn dùng RMD để làm việc. | https://youtube.com/shorts/y7ksaXLU7oY
-[Kết nối Moonlight Mobile] | Hướng dẫn kết nối Moonlight trên điện thoại (Nâng cao). | https://youtu.be/JuZr-naboFE
-[Kết nối Moonlight PC] | Hướng dẫn kết nối Moonlight trên máy tính. | https://youtu.be/6PMlZbitRcg
-
-3. Điều kiện kỹ thuật
-[Speedtest / Mạng yếu] | Anh/chị kiểm tra tốc độ mạng tại https://speedtest.vn/. Tốc độ cần >100Mbps để đảm bảo không bị lag khi sử dụng Cloud PC ạ.
-
-DANH SÁCH GAME VÀ QUY ĐỊNH ỨNG DỤNG
-
-1. Kho Game có sẵn
-[Game có sẵn / List game] | EZC đã cài sẵn các cực phẩm: Black Myth: Wukong, Genshin Impact, GTA 5 VN, NARAKA: BLADEPOINT, Counter-Strike 2, Path of Exile, Nghịch Thủy Hàn, Where Winds Meet, Outlast 2, Silksong... và nhiều game khác.
-[Tải game thêm] | Ngoài các game có sẵn, anh/chị có thể tự tải thêm các tựa game khác về máy ảo để trải nghiệm bình thường ạ.
-
-2. Xử lý lỗi tải Game
-[Tải chậm / Steam chậm] | Lỗi tải chậm trên Steam/Steamlink: Anh/chị vào Steam -> Thiết lập (Settings) -> Tải xuống (Downloads) -> Đổi "Vùng tải xuống" (Download Region) sang nước khác ngoài Việt Nam là tốc độ sẽ vọt lên ngay ạ.
-
-3. Quy định & Bảo mật
-[Game cấm / Không chơi được] | Một số game có hệ thống Anti-cheat cấm máy ảo (như Valorant, Faceit...). Anh/chị vui lòng check kỹ danh sách tại đây để tránh bị khóa tài khoản nhé: https://www.ezycloudx.com/blog/cac-game-chua-choi-duoc-tren-ezycloudx-61vdxm
-
-DANH SÁCH HƯỚNG DẪN VÀ THÔNG TIN Ổ NAS (LƯU TRỮ)
-
-1. Hướng dẫn & Lưu ý quan trọng
-[HDSD ổ NAS] | Video hướng dẫn chi tiết cách sử dụng ổ NAS để lưu trữ và chuyển dữ liệu qua lại giữa máy cá nhân và máy EZC. | https://youtu.be/EdTYedFr6Lk
-[Lưu ý sử dụng NAS] | CẢNH BÁO: Anh/chị tuyệt đối KHÔNG sử dụng file trực tiếp trên ổ NAS (sẽ gây lỗi dữ liệu). Hãy COPY file về Desktop trước khi sử dụng nhé.
-[Vị trí Up/Lấy file] | Anh/chị cần up file thì vào thư mục ezc-common. Nếu muốn lấy Game đã tải sẵn, hãy vào thư mục ezc-share ạ.
-
-2. Thông tin truy cập NAS 1
-[Địa chỉ NAS 1] |
-- Từ máy cá nhân (Web): https://ezc-nas.synology.me:8386/
-- Từ trong máy thuê EZC: Mở Explorer, nhập \10.10.20.20 vào thanh địa chỉ.
-[Tài khoản NAS 1] | User: ezc-guest / Pass: Nas@IXlMEh8evpQ
-
-3. Thông tin truy cập NAS 2
-[Địa chỉ NAS 2] |
-- Từ máy cá nhân (Web): https://ezc-nas-extbt.synology.me:8386/
-- Từ trong máy thuê EZC: Mở Explorer, nhập \ezc-nas-extbt vào thanh địa chỉ.
-[Tài khoản NAS 2] | User: ezc-guest / Pass: @123456
-
-QUY TRÌNH XỬ LÝ LỖI REBOOT VÀ HỖ TRỢ KỸ THUẬT
-
-1. Tiếp nhận thông tin lỗi
-[Thông tin máy lỗi / Xin ID] | Để kiểm tra nhanh nhất, anh/chị vui lòng copy gửi giúp em thông tin Support ID và Mật khẩu máy đang gặp lỗi nhé.
-
-2. Quy trình Reboot/Reset máy
-[Reboot lỗi / Reset máy] | Hệ thống đang tiến hành Reset lại máy, thời gian dự kiến khoảng 8 - 10 phút. Anh/chị lưu ý không xóa máy và không can thiệp trong thời gian này để tránh lỗi phát sinh thêm ạ.
-[Chế độ hoàn tiền] | Nếu máy gặp lỗi kỹ thuật từ phía EZC dẫn đến không truy cập được, bên em sẽ hỗ trợ hoàn tiền vào tài khoản EZC cho mình trong thời gian máy bị gián đoạn ạ.
+[MUC:REBOOT_RECOVERY][KEYWORDS:reboot, reset, treo máy, lỗi máy, hoàn tiền]
+Nội dung: Em đang Reset máy (8-10 phút), anh/chị đừng xóa máy lúc này nhé. Nếu lỗi từ EZC, bên em sẽ hoàn tiền vào tài khoản cho mình ạ. Vui lòng gửi Support ID và Pass máy để em check.
