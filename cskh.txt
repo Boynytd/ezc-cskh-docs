@@ -1,56 +1,45 @@
 [MUC:CHAO_HOI][KEYWORDS:chào, hi, hello, là ai, bắt đầu, giúp, hỗ trợ]
-Nội dung: EzyCloudX xin chào, em có thể hỗ trợ gì cho anh/chị về dịch vụ Cloud PC ạ? Anh/chị nên tham gia nhóm Discord để nhận hỗ trợ nhanh nhất và xem video hướng dẫn tại: https://discord.com/invite/3Jd3kmry5N (Vào Web -> Click mục Hỗ trợ gần Avatar góc phải).
+Nội dung: EzyCloudX xin chào, em hỗ trợ gì cho anh/chị về Cloud PC ạ? Tham gia Discord nhận hỗ trợ nhanh và video hướng dẫn: https://discord.com/invite/3Jd3kmry5N (Mục Hỗ trợ cạnh Avatar web).
 
 [MUC:GIA_CA][KEYWORDS:giá, bao nhiêu, tiền, phí, bảng giá, thuê, hourly, giờ]
-Nội dung: EZC có 3 loại: Windows, Ubuntu và Docker GPU. Giá thuê theo giờ linh hoạt từ 5K - 25K/giờ (dùng giờ nào tính tiền giờ đó). Chi tiết bảng giá tại: https://www.ezycloudx.com/gpu-hourly. EzyCloudX cho phép dùng điện thoại, laptop yếu để điều khiển máy cấu hình cao (RTX 5090/4090...).
+Nội dung: EZC có Windows, Ubuntu, Docker GPU. Giá: 5K - 25K/giờ (dùng giờ nào tính tiền giờ đó). Bảng giá: https://www.ezycloudx.com/gpu-hourly. Hỗ trợ điện thoại/laptop yếu điều khiển RTX 5090/4090.
 
 [MUC:LOI_14003][KEYWORDS:14003, parsec, connect, không vào được, remote desktop]
-Nội dung: Cách fix lỗi 14003: Anh/chị vui lòng tắt "Remote Desktop" hoặc "Windows App" trên máy ảo trước khi kết nối Parsec nhé.
+Nội dung: Fix lỗi 14003: Tắt "Remote Desktop" hoặc "Windows App" trên máy ảo trước khi kết nối Parsec.
 
 [MUC:LOI_6023][KEYWORDS:6023, nat, isp, mạng chặn, udp, tunnel, lag]
-Nội dung: Lỗi 6023 do mạng chặn UDP. 
-- Cách 1: Gọi tổng đài yêu cầu mở Port (VNPT: 18001166 phím 3, Viettel: 18008119 phím 1). 
+Nội dung: Lỗi 6023 (Mạng chặn UDP): 
+- Cách 1: Gọi tổng đài mở Port (VNPT: 18001166 - phím 3, Viettel: 18008119 - phím 1). 
 - Cách 2 (EZC Tunnel): https://www.ezycloudx.com/blog/huong-dan-ket-noi-may-chu-gpu-bang-ezc-tunnel-tw44q4x
-- Bật Decoder giảm lag: https://www.tiktok.com/@tungezc/video/7574666068300500245
+- Giảm lag: https://www.tiktok.com/@tungezc/video/7574666068300500245
 
 [MUC:LOI_PARSEC_KHAC][KEYWORDS:403, 401, mic, dual screen, màn hình, icon, chuột]
 Nội dung: 
-- Lỗi 403: Check Email phê duyệt vị trí mới.
-- Lỗi 401: Sai pass, tắt Unikey nhập lại.
-- Lỗi Mic: Setting -> Client -> Microphone Passthrough -> ON.
+- 403: Check Email phê duyệt vị trí. 
+- 401: Sai pass, tắt Unikey nhập lại. 
+- Mic: Setting -> Client -> Microphone Passthrough -> ON. 
 - Màn hình 2: https://www.tiktok.com/@tungezc/video/7567235761586605320
-- Mất icon: Tắt Parsec, dùng RMD connect lại sẽ hiện.
+- Mất icon: Tắt Parsec, dùng RMD connect lại.
 
 [MUC:GTA5_VN][KEYWORDS:gta 5, gta5, mất map, sai giờ, chuột gta, lag map]
-Nội dung: Hướng dẫn fix lỗi GTA 5 VN:
-- Mất Map: https://youtube.com/shorts/gRWWE_dUC2Y
-- Sai giờ: https://youtube.com/shorts/6CDDE9bwBHo
-- Lỗi chuột: https://youtube.com/shorts/mNreSdZUifo
+Nội dung: Fix GTA 5: Mất Map (https://youtube.com/shorts/gRWWE_dUC2Y), Sai giờ (https://youtube.com/shorts/6CDDE9bwBHo), Lỗi chuột (https://youtube.com/shorts/mNreSdZUifo).
 
-[MUC:NAP_TIEN][KEYWORDS:nạp, tiền, tài khoản, chuyển khoản, bank, thanh toán]
-Nội dung: Để nạp tiền, anh/chị vào Dashboard -> chọn mục "Nạp tiền" -> Chuyển khoản ngân hàng hoặc Momo. Tiền vào tài khoản sau 1-3 phút ạ.
+[MUC:NAP_TIEN][KEYWORDS:nạp, tiền, tài khoản, chuyển khoản, bank, thanh toán, deposit]
+Nội dung: Link nạp tiền trực tiếp: https://www.ezycloudx.com/console/deposit. Chọn Chuyển khoản hoặc Momo. Tiền vào tài khoản sau 1-3 phút.
 
 [MUC:TEST_MAY][KEYWORDS:test, thử, trải nghiệm, xin máy, xin test, bao lâu]
-Nội dung: Quy trình test máy (30-60 phút): Anh/chị cho em biết dùng thiết bị gì (PC/Mobile) và chơi game hay làm việc? Sau khi nhận máy vui lòng thả tym xác nhận. Không treo máy (nếu treo em không hỗ trợ test lại). Nếu full máy test, em sẽ nhắn lại ngay khi có máy trống.
+Nội dung: Test máy (30-60p): Vui lòng báo thiết bị (PC/Mobile) và mục đích (Game/Việc). Sau khi nhận máy hãy thả tym xác nhận. Không treo máy khi test. Nếu full máy, em sẽ báo khi có máy trống.
 
 [MUC:KET_NOI_VIDEO][KEYWORDS:hướng dẫn, kết nối, cài đặt, video, parsec, steamlink, moonlight]
-Nội dung: Video hướng dẫn:
-- Parsec PC: https://www.youtube.com/watch?v=153vSI_v924
-- Steamlink Mobile: https://youtu.be/HL6BRVF6-AQ
-- Moonlight Mobile: https://youtu.be/JuZr-naboFE
-- RMD: https://youtube.com/shorts/y7ksaXLU7oY
+Nội dung: Video HD: Parsec PC (https://youtu.be/153vSI_v924), Steamlink Mobile (https://youtu.be/HL6BRVF6-AQ), Moonlight Mobile (https://youtu.be/JuZr-naboFE).
 
 [MUC:GAME_APPS][KEYWORDS:game, list game, có sẵn, wukong, genshin, valorant, anti cheat]
-Nội dung: EZC có sẵn: Wukong, Genshin, GTA 5, Naraka... Anh/chị có thể tự tải thêm. 
-Lưu ý: Các game cấm máy ảo (Valorant, Faceit...) không chơi được: https://www.ezycloudx.com/blog/cac-game-chua-choi-duoc-tren-ezycloudx-61vdxm
+Nội dung: Có sẵn: Wukong, Genshin, GTA 5, Naraka... Anh/chị có thể tự tải thêm. Lưu ý: Valorant, Faceit... cấm máy ảo nên KHÔNG chơi được: https://www.ezycloudx.com/blog/cac-game-chua-choi-duoc-tren-ezycloudx-61vdxm
 
 [MUC:NAS_STORAGE][KEYWORDS:nas, lưu trữ, ổ cứng, copy, dữ liệu, mật khẩu nas]
-Nội dung: HDSD ổ NAS: https://youtu. EdTYedFr6Lk. Tuyệt đối KHÔNG dùng file trực tiếp trên NAS (phải copy về Desktop). 
+Nội dung: HD NAS: https://youtu.be/EdTYedFr6Lk. KHÔNG dùng file trực tiếp trên NAS (phải copy về Desktop). 
 - NAS 1: \10.10.20.20 | User: ezc-guest / Pass: Nas@IXlMEh8evpQ
 - NAS 2: \ezc-nas-extbt | User: ezc-guest / Pass: @123456
 
 [MUC:REBOOT_RECOVERY][KEYWORDS:reboot, reset, treo máy, lỗi máy, hoàn tiền]
-Nội dung: Em đang Reset máy (8-10 phút), anh/chị đừng xóa máy lúc này nhé. Nếu lỗi từ EZC, bên em sẽ hoàn tiền vào tài khoản cho mình ạ. Vui lòng gửi Support ID và Pass máy để em check.
-
-[MUC:NAP_TIEN][KEYWORDS:nạp, tiền, tài khoản, chuyển khoản, bank, thanh toán, deposit]
-Nội dung: Để nạp tiền, anh/chị vui lòng truy cập link: https://www.ezycloudx.com/console/deposit. Sau đó chọn hình thức chuyển khoản hoặc Momo. Tiền sẽ vào tài khoản sau 1-3 phút ạ.
+Nội dung: Đang Reset máy (8-10p), vui lòng không xóa máy. Lỗi từ EZC sẽ được hoàn tiền. Gửi Support ID + Pass máy để em check.
