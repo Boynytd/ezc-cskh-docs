@@ -7,11 +7,12 @@ Nội dung: EZC có Windows, Ubuntu, Docker GPU. Giá: 5K - 25K/giờ (dùng gi�
 [MUC:LOI_14003][KEYWORDS:14003, parsec, connect, không vào được, remote desktop]
 Nội dung: Fix lỗi 14003: Tắt "Remote Desktop" hoặc "Windows App" trên máy ảo trước khi kết nối Parsec.
 
-[MUC:LOI_6023][KEYWORDS:6023, nat, isp, mạng chặn, udp, tunnel, lag]
-Nội dung: Lỗi 6023 (Mạng chặn UDP): 
-- Cách 1: Gọi tổng đài mở Port (VNPT: 18001166 - phím 3, Viettel: 18008119 - phím 1). 
-- Cách 2 (EZC Tunnel): https://www.ezycloudx.com/blog/huong-dan-ket-noi-may-chu-gpu-bang-ezc-tunnel-tw44q4x
-- Giảm lag: https://www.tiktok.com/@tungezc/video/7574666068300500245
+[MUC: Lỗi 6023]
+[KEYWORDS: 6023, loi 6023, ket noi, udp]
+Nội dung:
+1. Hướng dẫn khách gọi tổng đài hỗ trợ: VNPT 18001166 nhánh 3, Viettel 18008119 nhánh 1.
+2. Gợi ý sử dụng EZC Tunnel, link video hướng dẫn: https://www.tiktok.com/@tungezc/video/7637005855078010132 (khả dụng tại VN01 và VN04).
+3. Nếu EZC Tunnel không khả dụng, hướng dẫn dùng Zerotier.
 
 [MUC:LOI_PARSEC_KHAC][KEYWORDS:403, 401, mic, dual screen, màn hình, icon, chuột]
 Nội dung: 
