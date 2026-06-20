@@ -1,47 +1,48 @@
 [MUC:CHAO_HOI][KEYWORDS:chào, hi, hello, là ai, bắt đầu, giúp, hỗ trợ]
-Nội dung: EzyCloudX xin chào, em hỗ trợ gì cho anh/chị về Cloud PC ạ? Tham gia Discord nhận hỗ trợ nhanh và video hướng dẫn: https://discord.com/invite/3Jd3kmry5N (Mục Hỗ trợ cạnh Avatar web).
+Nội dung: EzyCloudX xin chào, em hỗ trợ gì cho anh/chị về Cloud PC ạ? Tham gia Discord nhận hỗ trợ nhanh và video hướng dẫn: <https://discord.com/invite/3Jd3kmry5N> (Mục Hỗ trợ cạnh Avatar web).
 
 [MUC:GIA_CA][KEYWORDS:giá, bao nhiêu, tiền, phí, bảng giá, thuê, hourly, giờ]
-Nội dung: EZC có Windows, Ubuntu, Docker GPU. Giá: 5K - 25K/giờ (dùng giờ nào tính tiền giờ đó). Bảng giá: https://www.ezycloudx.com/gpu-hourly. Hỗ trợ điện thoại/laptop yếu điều khiển RTX 5090/4090.
+Nội dung: EZC có Windows, Ubuntu, Docker GPU. Giá: 5K - 25K/giờ (dùng giờ nào tính tiền giờ đó). Bảng giá: <https://www.ezycloudx.com/gpu-hourly>. Hỗ trợ điện thoại/laptop yếu điều khiển RTX 5090/4090.
 
 [MUC:LOI_14003][KEYWORDS:14003, parsec, connect, không vào được, remote desktop]
 Nội dung: Fix lỗi 14003: Tắt "Remote Desktop" hoặc "Windows App" trên máy ảo trước khi kết nối Parsec.
 
-[MUC: Lỗi 6023]
-[KEYWORDS: 6023, loi 6023, ket noi, udp]
-Nội dung:
-1. Hướng dẫn khách gọi tổng đài hỗ trợ: VNPT 18001166 nhánh 3, Viettel 18008119 nhánh 1.
-2. Gợi ý sử dụng EZC Tunnel, link video hướng dẫn: https://www.tiktok.com/@tungezc/video/7637005855078010132 (khả dụng tại VN01 và VN04).
-3. Nếu EZC Tunnel không khả dụng, hướng dẫn dùng Zerotier.
+[MUC:LOI_6023][KEYWORDS:6023, loi 6023, ket noi, udp, parsec 6023]
+Nội dung: Chi tiết tại: <https://www.ezycloudx.com/blog/sua-loi-parsec-6023-v6xyjd>. 3 cách xử lý:
+1. Tổng đài: Viettel 1800 8119 (phím 5), VNPT/VinaPhone 1800 1166 (phím 1), FPT gọi 1900 6600 (phím 2) hoặc qua app Hi FPT, SCTV 1900 1878 (phím 1). Câu lệnh: "Mở NAT Port và cổng IP giúp tôi để cài đặt thiết bị". Nếu không nhớ thông tin, chụp mặt sau modem đọc mã MAC và GPON.
+2. EZC Tunnel (cụm VN01, VN04): <https://www.youtube.com/watch?v=q5Aul1G9Eq8>
+3. Dùng Zerotier nếu chưa có Tunnel: <https://www.youtube.com/watch?v=wnpy498eSGQ>
 
 [MUC:LOI_PARSEC_KHAC][KEYWORDS:403, 401, mic, dual screen, màn hình, icon, chuột]
 Nội dung: 
 - 403: Check Email phê duyệt vị trí. 
 - 401: Sai pass, tắt Unikey nhập lại. 
 - Mic: Setting -> Client -> Microphone Passthrough -> ON. 
-- Màn hình 2: https://www.tiktok.com/@tungezc/video/7567235761586605320
+- Màn hình 2: <https://www.tiktok.com/@tungezc/video/7567235761586605320>
 - Mất icon: Tắt Parsec, dùng RMD connect lại.
 
 [MUC:GTA5_VN][KEYWORDS:gta 5, gta5, mất map, sai giờ, chuột gta, lag map]
-Nội dung: Fix GTA 5: Mất Map (https://youtube.com/shorts/gRWWE_dUC2Y), Sai giờ (https://youtube.com/shorts/6CDDE9bwBHo), Lỗi chuột (https://youtube.com/shorts/mNreSdZUifo).
+Nội dung: Fix GTA 5: Mất Map (<https://youtube.com/shorts/gRWWE_dUC2Y>), Sai giờ (<https://youtube.com/shorts/6CDDE9bwBHo>), Lỗi chuột (<https://youtube.com/shorts/mNreSdZUifo>).
 
 [MUC:NAP_TIEN][KEYWORDS:nạp, tiền, tài khoản, chuyển khoản, bank, thanh toán, deposit]
-Nội dung: Link nạp tiền trực tiếp: https://www.ezycloudx.com/console/deposit. Chọn Chuyển khoản hoặc Momo. Tiền vào tài khoản sau 1-3 phút.
+Nội dung: Link nạp tiền trực tiếp: <https://www.ezycloudx.com/console/deposit>. Chọn Chuyển khoản hoặc Momo. Tiền vào tài khoản sau 1-3 phút.
 
 [MUC:TEST_MAY][KEYWORDS:test, thử, trải nghiệm, xin máy, xin test, bao lâu]
 Nội dung: Test máy (30-60p): Vui lòng báo thiết bị (PC/Mobile) và mục đích (Game/Việc). Sau khi nhận máy hãy thả tym xác nhận. Không treo máy khi test. Nếu full máy, em sẽ báo khi có máy trống.
 
 [MUC:KET_NOI_VIDEO][KEYWORDS:hướng dẫn, kết nối, cài đặt, video, parsec, steamlink, moonlight]
-Nội dung: Video HD: Parsec PC (https://youtu.be/153vSI_v924), Steamlink Mobile (https://youtu.be/HL6BRVF6-AQ), Moonlight Mobile (https://youtu.be/JuZr-naboFE).
+Nội dung: Video HD: Parsec PC (<https://youtu.be/153vSI_v924>), Steamlink Mobile (<https://youtu.be/HL6BRVF6-AQ>), Moonlight Mobile (<https://youtu.be/JuZr-naboFE>).
 
 [MUC:GAME_APPS][KEYWORDS:game, list game, có sẵn, wukong, genshin, valorant, anti cheat]
-Nội dung: Có sẵn: Wukong, Genshin, GTA 5, Naraka... Anh/chị có thể tự tải thêm. Lưu ý: Valorant, Faceit... cấm máy ảo nên KHÔNG chơi được: https://www.ezycloudx.com/blog/cac-game-chua-choi-duoc-tren-ezycloudx-61vdxm
+Nội dung: Có sẵn: Wukong, Genshin, GTA 5, Naraka... Anh/chị có thể tự tải thêm. Lưu ý: Valorant, Faceit... cấm máy ảo nên KHÔNG chơi được: <https://www.ezycloudx.com/blog/cac-game-chua-choi-duoc-tren-ezycloudx-61vdxm>
 
 [MUC:NAS_STORAGE][KEYWORDS:nas, lưu trữ, ổ cứng, copy, dữ liệu, mật khẩu nas]
-Nội dung: HD NAS: https://youtu.be/EdTYedFr6Lk. KHÔNG dùng file trực tiếp trên NAS (phải copy về Desktop). 
+Nội dung: HD NAS: <https://youtu.be/EdTYedFr6Lk>. KHÔNG dùng file trực tiếp trên NAS (phải copy về Desktop). 
 - NAS 1: \10.10.20.20 | User: ezc-guest / Pass: Nas@IXlMEh8evpQ
 - NAS 2: \ezc-nas-extbt | User: ezc-guest / Pass: @123456
 
-[MUC:REBOOT_RECOVERY][KEYWORDS:reboot, reset, treo máy, lỗi máy, hoàn tiền]
-Nội dung: Đang Reset máy (8-10p), vui lòng không xóa máy. Lỗi từ EZC sẽ được hoàn tiền. Gửi Support ID + Pass máy để em check.
-[MUC:NAP_TIEN][KEYWORDS:nạp, tiền, deposit] Nội dung: Link nạp: https://www.ezycloudx.com/console/deposit
+[MUC:REBOOT_RECOVERY][KEYWORDS:reboot, reset, treo máy, lỗi máy]
+Nội dung: Đang Reset máy (8-10p), vui lòng không xóa máy. Gửi Support ID + Pass máy để em check.
+
+[MUC:DIEU_KHOAN_MINING][KEYWORDS:đào coin, tiền ảo, mining, bitcoin, treo tool đào, crack, bản quyền, tấn công mạng, vi phạm]
+Nội dung: Dạ EZYCLOUDX nghiêm cấm mọi hình thức đào tiền mã hóa (mining), tấn công mạng, cũng như khách hàng phải tự chịu trách nhiệm về bản quyền phần mềm ạ. Máy vi phạm sẽ bị khóa vĩnh viễn. Anh/chị xem chi tiết Điều khoản sử dụng dịch vụ tại đây giúp em nhé: <https://www.ezycloudx.com/terms-of-service>
